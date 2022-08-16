@@ -3,8 +3,7 @@
 
 Table of Contents of Completed Notes:
 - [Class1](https://davidlee9088.github.io/301-Reading-Notes/Class01)
-
-- 
+- [Class2](https://davidlee9088.github.io/301-Reading-Notes/Class02)
 - 
 - 
 - 
